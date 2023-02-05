@@ -28,3 +28,5 @@ let altura_red = Math.ceil(altmetros)
 let peso_red = Math.floor(pesokg)
 
 let sonIguales = Number.MAX_VALUE + 1 === Number.MAX_VALUE
+
+console.log(altcm, altmetros, pesokg, altura_red, peso_red, sonIguales)
